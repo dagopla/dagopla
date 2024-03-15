@@ -3,16 +3,16 @@
 𝗜'𝗺 [Dagopla](https://github.com/dagopla)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 tecnology 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
-![Linkedin](https://www.linkedin.com/in/dagopla/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dagopla@gmail.com)](mailto:dagopla@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/dagopla)](https://github.com/dagopla)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagopla/)](https://www.linkedin.com/in/dagopla/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dagopla&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://yaronzz.top
-- 📫 How to reach me: yaronhuang@foxmail.com
+- 👨‍💻 My profolio: https://dagopla.netlify.app/
+- 📫 How to reach me: dagopla@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
@@ -27,5 +27,4 @@
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
 
-
-⭐️ From [Yaronzz](https://github.com/yaronzz)
+⭐️ From [Dagopla](https://github.com/dagopla)
